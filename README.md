@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧑‍🦰 About Me
 
 - 💻 I build dynamic and scalable web apps using **Java APIs**, **Flask backends**, and **React/Next.js frontends**.
 - 🛠️ Currently exploring **Astro**, **Supabase**, and advanced **SQL** integrations.
@@ -15,7 +15,7 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⭐ Tech Stack
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  〽️ GitHub Stats
 
 <p>
   <img alt="GitHub Stats for LucasArielAguirre" src="https://github-readme-stats.vercel.app/api?username=LucasArielAguirre&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
@@ -41,7 +41,7 @@
 
 ---
 
-## 📫 Contact Me
+## ❕ Contact Me
 
 If you're interested in **collaborating**, have questions, or just want to chat about **Java APIs**, **React**, or **Flask projects**:
 
