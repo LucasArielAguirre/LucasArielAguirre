@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lucas 👋 (he/him)</h1>
+<h1 align="center">Hi, I'm Lucas 👋</h1>
 <p align="center">Software Developer | Web Dev Enthusiast | Clean Code Advocate</p>
 
 ---
