@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Lucas Ariel Aguirre – Web Developer & Software Engineer</h1>
+<h1 align="center">👋 Hey, I'm Lucas Ariel Aguirre – Software Developer </h1>
 
 <p align="center">
   I'm a passionate <strong>Software Developer</strong> focused on building full-stack web applications using <strong>React, Next.js, Java, Flask</strong> and modern tools like <strong>TypeScript, Astro, Supabase, and SQL</strong>.
